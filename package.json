@@ -1,0 +1,32 @@
+{
+  "name": "idmore-top-pageloader",
+  "version": "1.0.0",
+  "description": "top loader for web page",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idmore/idmore-top-loader.git"
+  },
+  "keywords": [
+    "top",
+    "loader",
+    "web",
+    "top",
+    "loader"
+  ],
+  "author": "yussan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idmore/idmore-top-loader/issues"
+  },
+  "homepage": "https://github.com/idmore/idmore-top-loader#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
