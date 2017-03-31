@@ -11,7 +11,7 @@ Check all example we creted on `examples` directory. All what you need is availa
 
 ### For developers
 
-*instalation*
+**instalation**
 
 Install all dependencies needed to create assets dist version.
 
@@ -22,4 +22,9 @@ OS requirements :
 npm install
 ```
 
-*developement*
+**developement**
+start gulp to watch and build dev version to dist version
+```
+npm run start
+```
+
