@@ -1,6 +1,6 @@
 {
-  "name": "top-pageloader",
-  "version": "1.0.0",
+  "name": "top-loader",
+  "version": "0.0.1",
   "description": "global top loader for website",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yussan/idmore-top-loader.git"
+    "url": "git+https://github.com/idmore/idmore-top-loader"
   },
   "keywords": [
     "web",
@@ -18,7 +18,7 @@
   "author": "yussan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yussan/idmore-top-loader/issues"
+    "url": "https://github.com/idmore/idmore-top-loader/issues"
   },
   "homepage": "https://github.com/yussan/idmore-top-loader#readme"
 }
