@@ -1,16 +1,20 @@
 {
-  "name": "top-loader-src",
+  "name": "toploader-src",
   "version": "1.0.0",
-  "description": "source code of top loader",
+  "description": "",
   "main": "top-loader.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babili": "0.0.12",
+    "grunt": "^1.0.1",
+    "grunt-babel": "^6.0.0",
+    "grunt-contrib-uglify": "^2.3.0"
+  },
   "scripts": {
+    "start": "grunt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "top",
-    "loader",
-    "website"
-  ],
-  "author": "yussan",
+  "author": "",
   "license": "ISC"
 }
