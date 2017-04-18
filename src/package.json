@@ -1,0 +1,16 @@
+{
+  "name": "top-loader-src",
+  "version": "1.0.0",
+  "description": "source code of top loader",
+  "main": "top-loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "top",
+    "loader",
+    "website"
+  ],
+  "author": "yussan",
+  "license": "ISC"
+}

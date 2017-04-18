@@ -1,32 +1,10 @@
-# IDMORE TOP LOADER
+# IDMORE TOP LOADER 
 
-Top loader for web page.
+## Is a top loader for the website. fully customizable, lightweight, no need third party.
 
-## Using
+### Available at npm too 
+* **npm** : https://www.npmjs.com/package/top-loader
 
-### For Users
-
-Check all example we creted on `examples` directory. All what you need is available on `dist` directories.
-
-
-### For developers
-
-**requirements**
-
-- SASS http://sass-lang.com/
-
-
-**instalation**
-
-Install all dependencies needed to create assets dist version.
-```
-npm install
-```
-
-**developement**
-
-start gulp to watch and build dev version to dist version
-```
-npm run start
-```
-
+### Instalation (choose one) 
+* **using npm** : `npm install top-loader`
+* **using dist assets** : just copy paste ./dist directories, all you need is there.

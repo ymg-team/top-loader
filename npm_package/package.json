@@ -1,0 +1,24 @@
+{
+  "name": "top-loader",
+  "version": "0.0.1",
+  "description": "global top loader for website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idmore/idmore-top-loader"
+  },
+  "keywords": [
+    "web",
+    "top",
+    "loader"
+  ],
+  "author": "yussan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idmore/idmore-top-loader/issues"
+  },
+  "homepage": "https://github.com/yussan/idmore-top-loader#readme"
+}
